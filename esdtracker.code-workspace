@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"configurations": [
+			{
+				"name": "update.py",
+				"type": "debugpy",
+				"request": "launch",
+				"program": "${workspaceFolder}/update.py"
+			}
+		]
+	}
+}
